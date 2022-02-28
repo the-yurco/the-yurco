@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm g30rgee</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g30rgeee" alt="g30rgeee" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16324222/g30rgee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16324222/g30rgee" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_.g30rgee._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.g30rgee._/" height="30" width="40" /></a>
+<a href="https://instagram.com/_.g30rgee._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.g30rgee._/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/FP32N4k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FP32N4k2" height="30" width="40" /></a>
 </p>
 
