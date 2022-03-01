@@ -1,5 +1,5 @@
 <h1 align="center">I'm g30rgee</h1>
-
+<h1 align="center">student</h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g30rgeee&theme=midnight-purple)
 
