@@ -3,7 +3,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g30rgeee&theme=midnight-purple)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📡CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https:g30rgee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/https:g30rgee" height="30" width="40" /></a>
 <a href="https://instagram.com/_.g30rgee._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.g30rgee._/" height="30" width="40" /></a>
