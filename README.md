@@ -1,7 +1,7 @@
 <h1 align="center">💻I'm 23-8-9-20-5💻</h1>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g30rgeee&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23-8-9-20-5&theme=midnight-purple)
 
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
