@@ -26,7 +26,7 @@
       me.makecontributionsociety();
       me.beproductive();
       me.doliterallyanything
-    } </h4>
+    } 
 
 
 
