@@ -15,17 +15,17 @@
 
 <h4 align="left"> Coding....
   
-                  Student me = Student();
-                  while (me.alive()){
-                    me.sleep();
-                    continue;
-                    me.eat();
-                    me.practice();
-                    me.work();
-                    me.makecontributionsociety();
-                    me.beproductive();
-                    me.doliterallyanything
-                  } </h4>
+Student me = Student();
+while (me.alive()){
+  me.sleep();
+  continue;
+  me.eat();
+  me.practice();
+  me.work();
+  me.makecontributionsociety();
+  me.beproductive();
+  me.doliterallyanything
+} </h4>
 
 
 
