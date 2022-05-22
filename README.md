@@ -8,7 +8,7 @@
 <a href="https://twitter.com/iamg30rgeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/iamg30rgeee" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16324222/23-8-9-20-5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16324222/23-8-9-20-5" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jurco.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jurco.exe/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/FP32N4k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FP32N4k2" height="30" width="40" /></a>
+<a href="[https://discord.gg/https://discord.gg/FP32N4k2](https://discord.gg/YYTpaas3)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FP32N4k2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">LANGUAGES AND TOOLS:</h3>
