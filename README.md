@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **JS(React),**
+- 🌱 I’m currently learning **JS(React) + TS,**
 
 - 💬 Ask me about **js, react, html, css, scss, bootstrap**
 
