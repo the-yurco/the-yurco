@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamg30rgeee" target="blank"><img src="https://img.shields.io/twitter/follow/iamg30rgeee?logo=twitter&style=for-the-badge" alt="iamg30rgeee" /></a> </p>
 
-- 🔭 I’m currently working on **| Star-Wars-Planets | C++ Game Project | Twisters by Night |**
+- 🔭 I’m currently working on **my startup | DevUniverse |**
 
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 I’m currently learning **working on myself **
 
 - 💬 Ask me about **JS, TS, React, Vue, css/scss/tailwind/bootstrap**
 
