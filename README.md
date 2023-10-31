@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamg30rgeee" target="blank"><img src="https://img.shields.io/twitter/follow/iamg30rgeee?logo=twitter&style=for-the-badge" alt="iamg30rgeee" /></a> </p>
 
-- 🔭 I’m currently working on **my startup | DevUniverse |**
+- 🔭 I’m currently working on **PORTFOLIO | startup: ModaiX | side Projects **
 
-- 🌱 I’m currently learning **working on myself **
+- 🌱 I’m currently learning ** to code... **
 
-- 💬 Ask me about **JS, TS, React, Vue, css/scss/tailwind/bootstrap**
+- 💬 Ask me about **JS , TS , React/Next , Vue , css/scss/tailwind/bootstrap , Python, C++**
 
 - 📫 How to reach me **jurajbosy404@gmail.com**
 
