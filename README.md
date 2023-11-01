@@ -1,19 +1,32 @@
 <div align="center" >
   <h1 align="center">Hi 👋, I'm Jurco</h1>
-  <h3 align="center">Front-end Web Developer</h3>
+  <h3 align="center">Digital Wizard</h3>
 </div>
 
 <p align="left"> <a href="https://twitter.com/iamg30rgeee" target="blank"><img src="https://img.shields.io/twitter/follow/iamg30rgeee?logo=twitter&style=for-the-badge" alt="iamg30rgeee" /></a> </p>
 
-- 🔭 I’m currently working on **PORTFOLIO | startup: ModaiX | side Projects **
+# 👨‍💻 **Tech Alchemist 💭 | Crafting Digital Poetry for a Better Tomorrow**
 
-- 🌱 I’m currently learning ** to code... **
+## 🔭 **Venturing into the Enchanted Realms**
 
-- 💬 Ask me about **JS , TS , React/Next , Vue , css/scss/tailwind/bootstrap , Python, C++**
+In the mystic laboratory of ModaiX, I am weaving the fabric of digital enchantment, forging the future through side projects that rewrite the destiny of technology.
 
-- 📫 How to reach me **jurajbosy404@gmail.com**
+## 🌱 **Deciphering the Code-Casting Incantations**
 
-- ⚡ Fun fact **I enjoy silence as much as I enjoy music. For me, silence is not just the absence of noise, but a peaceful space where I can recharge and reconnect with myself.**
+I am on a relentless journey to decipher the arcane incantations of programming languages, breathing life into the ethereal world of software and code.
+
+## 💬 **Unlock the Wisdom of Tech Arcana**
+
+Feel free to seek counsel about my profound mastery of tech arcana, including **JS, TS, React/Next, Vue**, the delicate dance of **CSS/SCSS**, the pythonic spells, and the enigmatic scrolls of **C++**.
+
+## 📫 **Summoning the Tech Alchemist**
+
+To send your digital ravens, summon me at **jurajbosy404@gmail.com** and let's embark on a quest through the digital ether.
+
+## ⚡ **Fun Fact: In the Alchemical Silence**
+
+In the alchemical silence of the digital crucible, I harmonize the contemplative essence of a philosopher with the rhythmic cadence of a poet. Like a tech alchemist, my mission is to transmute these elements into digital poetry, forging a brighter tomorrow one line of code at a time.
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
