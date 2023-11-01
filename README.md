@@ -5,27 +5,29 @@
 
 <p align="left"> <a href="https://twitter.com/iamg30rgeee" target="blank"><img src="https://img.shields.io/twitter/follow/iamg30rgeee?logo=twitter&style=for-the-badge" alt="iamg30rgeee" /></a> </p>
 
-# 👨‍💻 **Tech Alchemist 💭 | Crafting Digital Poetry for a Better Tomorrow**
+# 👨‍💻 **Tech Visionary 🚀 | Crafting Digital Poetry for a Better Tomorrow**
 
-## 🔭 **Forging the Future with ModaiX**
+## 🔭 **Revealing a World of Innovation**
 
-In the mystical forge of ModaiX, I am weaving the fabric of digital enchantment, crafting a brighter tomorrow while also embarking on side projects that redefine the tech-driven world.
+Within the depths of the **Digital Nexus**, I'm quietly sculpting the future, tirelessly pushing the boundaries to forge a tomorrow that transcends imagination and sets the stage for positive change.
 
-## 🌱 **Deciphering the Code-Casting Incantations**
+## 🌱 **Unleashing my Digital Odyssey**
 
-I am on a relentless journey to decipher the arcane incantations of programming languages, breathing life into the ethereal world of software and code.
+Embarking on a relentless way, I translate the enigmatic dialects of programming languages, breathing life into the ethereal realms of software and code with a vision to reshape the world for the better.
 
-## 💬 **Unlock the Wisdom of Tech Arcana**
+## 💬 **Tapping into the Tech Oracle**
 
-Feel free to seek counsel about my profound mastery of tech arcana, including **JS, TS, React/Next, Vue**, the delicate dance of **CSS/SCSS**, the pythonic spells, and the enigmatic scrolls of **C++**.
+Feel free to inquire about my profound mastery of tech wisdom, encompassing **JS, TS, React/Next, Vue**, the delicate artistry of **CSS/SCSS**, the magic of Python, and the enigmatic scrolls of **C++**.
 
-## 📫 **Summoning the Tech Alchemist**
+## 📫 **Summoning the Tech Visionary**
 
-To send your digital ravens, summon me at **jurajbosy404@gmail.com** and let's embark on a quest through the digital ether.
+To reach out and be part of this digital revolution, send a message to **jurajbosy404@gmail.com** 
 
 ## ⚡ **Fun Fact: In the Alchemical Silence**
 
-In the alchemical silence of the digital crucible, I harmonize the contemplative essence of a philosopher with the rhythmic cadence of a poet. Like a tech alchemist, my mission is to transmute these elements into digital poetry, forging a brighter tomorrow one line of code at a time.
+Amidst the digital silence, I orchestrate the wisdom of a sage with the creativity of a poet. As a tech visionary, my mission is to transform these elements into digital dreams, setting the stage for a remarkable tech legacy, often one line of code at a time.
+
+
 
 
 <h3 align="center">Connect with me:</h3>
