@@ -1,6 +1,6 @@
 <div align="center" >
-  <h1 align="center">Hi 👋, I'm Jurco</h1>
-  <h3 align="center">Digital Wizard</h3>
+  <h1 align="center">Wassup, I'm yurco</h1>
+  <h2 align="center">BOUNDLESSLY INNOVATIVE PROGRAMMER AND DESIGNER.</h2>
 </div>
 
 <p align="left"> <a href="https://twitter.com/iamg30rgeee" target="blank"><img src="https://img.shields.io/twitter/follow/iamg30rgeee?logo=twitter&style=for-the-badge" alt="iamg30rgeee" /></a> </p>
