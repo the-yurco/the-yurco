@@ -9,15 +9,15 @@
 
 ## 🔭 **Revealing a World of Innovation**
 
-Within the depths of the **Digital Nexus**, I'm quietly sculpting the future, tirelessly pushing the boundaries to forge a tomorrow that transcends imagination and sets the stage for positive change.
+In the world of technology, I work hard to shape the future, always striving to push the boundaries and create a better tomorrow that exceeds our imaginations and delivers good things.
 
 ## 🌱 **Unleashing my Digital Odyssey**
 
-Embarking on a relentless way, I translate the enigmatic dialects of programming languages, breathing life into the ethereal realms of software and code with a vision to reshape the world for the better.
+I'm on a constant journey, deciphering the complex languages of programming, and bringing software and code to life with a goal to make the world a better place.
 
 ## 💬 **Tapping into the Tech Oracle**
 
-Feel free to inquire about my profound mastery of tech wisdom, encompassing **JS, TS, React/Next, Vue**, the delicate artistry of **CSS/SCSS**, the magic of Python, and the enigmatic scrolls of **C++**.
+I have a decent understanding of various tech skills, including JavaScript (JS), TypeScript (TS), React/Next, Vue, the nuances of CSS/SCSS, the versatility of Python, and the intricacies of C++
 
 ## 📫 **Summoning the Tech Visionary**
 
@@ -25,7 +25,7 @@ To reach out and be part of this digital revolution, send a message to **jurajbo
 
 ## ⚡ **Fun Fact: In the Alchemical Silence**
 
-Amidst the digital silence, I orchestrate the wisdom of a sage with the creativity of a poet. As a tech visionary, my mission is to transform these elements into digital dreams, setting the stage for a remarkable tech legacy, often one line of code at a time.
+In the world of technology, I combine the wisdom of an expert with the creativity of an artist. My goal, as a tech visionary, is to turn these elements into digital innovations, laying the foundation for a noteworthy tech legacy, often with just a single line of code.
 
 
 
