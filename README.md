@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Building things since 2020<br>📚 I'm currently learning Actix<br>🎯 Goals: in my head....<br>🎲 Fun fact: I like to express my selve in any creative way.</p>
+<p align="left">✨ Building things since --- 2020<br>💻 Focused mainly in --- Web Development <br> 🎲 Fun fact: I like to express my selve in any creative way.</p>
 
 ###
 
