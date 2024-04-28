@@ -1,7 +1,6 @@
 ### Yurco
 expressing myself creatively....
 https://yurco.site/
-
 hidden behind the pc
 ---
 
