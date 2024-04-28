@@ -1,7 +1,9 @@
 ### Yurco
 expressing myself creatively....
 https://yurco.site/
-hidden behind the pc
+
+hidden in front of the pc
+
 ---
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_yurco)
