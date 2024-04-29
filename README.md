@@ -1,12 +1,12 @@
-# Yurco
+# [01010111 01111001 01101111 01110101 01110010 01100011 01101111]
 
 Expressing myself creatively....
 
-[Visit my site](https://yurco.site/)
+[![Visit my site](https://img.shields.io/badge/Visit-Yurco.site-9cf?style=for-the-badge&logo=webflow&logoColor=white)](https://yurco.site/)
 
-**STATUS:** [Hidden....], so catch me if you can.... hehehehe
+**STATUS:** [Hidden....], so catch me if you can.... [01101000 01100101 01101000 01100101 01101000 01100101]...
 
-Just doin' my thing... hehehehe
+Just doin' my thing... [01101000 01100101 01101000 01100101 01101000 01100101]...
 
 ---
 
