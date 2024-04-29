@@ -2,7 +2,9 @@
 expressing myself creatively....
 https://yurco.site/
 
-hidden in front of the pc, so catch me if you can.... hehehehe
+STATUS: [hidden....], so catch me if you can.... hehehehe
+
+just doin my thing... hehehehe
 
 ---
 
