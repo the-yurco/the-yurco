@@ -1,17 +1,21 @@
-# {iurai}
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
-Expressing myself creatively ...
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
 
-(https://yurco.site/)
-
-**CURRENT STATUS:** [Hidden...], so find me if you can ...
-
-"Just doin' my thing" {🕵️‍♂️}
-
----
-
-[![Follow me on Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_yurco)
+<div align="center">
+to my personal GitHub profile!
+</div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40"/>
+
+<h3 align="center">
+<a href="https://yurco.site/">Visit my personal homepage
+<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+</a>
+</h3>
+
